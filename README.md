@@ -28,3 +28,9 @@ define( 'GIT_PASS', "YOUR_PASSWORD_TO_SECURIZE_THE_FILE" );
 define( 'GIT_TARGET', "YOUR_TARGET_FOLDER" );
 ```
 
+- GIT_HOST : URL to your Gitea host
+- GIT_USER : Your Gitea username
+- GIT_REPO : Wich repository you want to manage for your wordpress website
+- GIT_PASS : Password to prevent anybody to mess with your wordpress files
+- GIT_TARGET : The folder where all the files will be copied or deleted
+
