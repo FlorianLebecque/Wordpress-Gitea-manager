@@ -34,3 +34,7 @@ define( 'GIT_TARGET', "YOUR_TARGET_FOLDER" );
 - GIT_PASS : Password to prevent anybody to mess with your wordpress files
 - GIT_TARGET : The folder where all the files will be copied or deleted
 
+### GIT_TAGET Exemple
+- wp-content
+- wp-content/themes/yourtheme
+- wp-content/plugins/
